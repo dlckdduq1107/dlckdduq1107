@@ -12,8 +12,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlckdduq1107)](https://github.com/dlckdduq1107/github-readme-stats)
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+[![solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlckdduq)](https://solved.ac/dlckdduq)
 
 <!--
 **dlckdduq1107/dlckdduq1107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
