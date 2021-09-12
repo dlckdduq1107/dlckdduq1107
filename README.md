@@ -30,6 +30,7 @@
       <br>
       <br>
       <h3> 👋 ME 👋 </h3>
+      <div>네이버 부스트캠프 멤버십 6기(웹풀스택)</div>
         <a href="https://fansor.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://fansor.tistory.com/"/></a>&nbsp
   <a href="mailto:dlckdduq97@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=dlckdduq97@gmail.com"/></a>
   <br>
