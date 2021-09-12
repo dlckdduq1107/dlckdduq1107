@@ -23,16 +23,28 @@
       <img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white"/>
       <br>
       <br>
-      [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdlckdduq1107&count_bg=%23F628FB&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://github.com/dlckdduq1107)
+      <h3> 👋 ME 👋 </h3>
+        <a href="https://fansor.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://fansor.tistory.com/"/></a>&nbsp
+  <a href="mailto:dlckdduq97@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=dlckdduq97@gmail.com"/></a>
+  <br>
+  <br>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdlckdduq1107&count_bg=%23F628FB&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a>
+
+[![solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlckdduq)](https://solved.ac/dlckdduq)
+<br>
+[![Fansor's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlckdduq1107&show_icons=true&theme=great-gatsby)](https://github.com/dlckdduq1107/github-readme-stats)
+
 </div>
 
 
+
   
-[![Fansor's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlckdduq1107&show_icons=true&theme=great-gatsby)](https://github.com/dlckdduq1107/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlckdduq1107)](https://github.com/dlckdduq1107/github-readme-stats)
-[![solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlckdduq)](https://solved.ac/dlckdduq)
+
+
+
 
 <!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlckdduq1107)](https://github.com/dlckdduq1107/github-readme-stats) 언어 비율
 **dlckdduq1107/dlckdduq1107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
